@@ -1,3 +1,4 @@
+# File changed
 # Primary package dependencies for the application that are loaded during
 # startup.
 #
@@ -7,5 +8,12 @@
 # bare miniminum: configurations are stored in json format
 jsonlite
 
-# if deploying shiny based applications:
 shiny
+shinyhelper
+data.table
+DT
+openxlsx
+magrittr
+shinydashboard
+dashboardthemes
+ggplot2
